@@ -1,4 +1,4 @@
-package com.example.leetcode;
+package com.leetcode.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
